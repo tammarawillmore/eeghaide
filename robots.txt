@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yevoohaife.jancborchardt.net/sitemap.xml
